@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BrewHub.Common.Models
+namespace BrewHub.Common.Domain
 {
     public class Brew
     {
